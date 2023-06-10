@@ -1,0 +1,64 @@
+[33mcommit c9abb8f9a6e8864fb4087f6f08d2432cb068570e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: heren <heren1heren@gmail.com>
+Date:   Sat Jun 10 09:21:46 2023 -0600
+
+    Subject line (try to keep under 50 characters)
+    
+    Multi-line description of commit,
+    feel free to be detailed.
+    
+    [Ticket: X]
+    hello hello i am connecting with the default text editor- vscode
+
+[33mcommit a7ec68932783fa6c548fa43b036d3991e8d82717[m
+Author: heren <heren1heren@gmail.com>
+Date:   Sat Jun 10 09:13:06 2023 -0600
+
+    Subject line (try to keep under 50 characters)
+    
+    Multi-line description of commit,
+    feel free to be detailed.
+    
+    [Ticket: X]
+    hello test test hello
+
+[33mcommit 29e60da790dac67176f4b2d4c849b7aa701b650e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: heren <heren1heren@gmail.com>
+Date:   Sat Jun 10 09:09:36 2023 -0600
+
+    Subject line (try to keep under 50 characters)
+    
+    Multi-line description of commit,
+    feel free to be detailed.
+    
+    [Ticket: X]
+
+[33mcommit af816958c18158bad93083580f0794c658180403[m
+Author: heren <heren1heren@gmail.com>
+Date:   Sat Jun 10 09:00:07 2023 -0600
+
+    hello
+
+[33mcommit 489e3dbc87f9f3a382c60d5a9e7dd8684fd65903[m
+Author: heren <heren1heren@gmail.com>
+Date:   Fri Jun 9 16:58:20 2023 -0600
+
+    Add shell-lesson
+
+[33mcommit 99492b89315eb7c682ad6cba94f7eb4463ec7276[m
+Author: heren <heren1heren@gmail.com>
+Date:   Fri Jun 9 16:22:43 2023 -0600
+
+    Edit READeM.MD and hello_hellO.txt
+
+[33mcommit 705ce50db8faf068a21f270f066d27d03624d10a[m
+Author: heren <heren1heren@gmail.com>
+Date:   Fri Jun 9 16:13:59 2023 -0600
+
+    Add hello_hello.txt
+
+[33mcommit ff9ca22faa637e1db2121635f9fde3dd01be0315[m
+Author: Captain_Turtle <133596616+HerenUNKNOWN@users.noreply.github.com>
+Date:   Fri Jun 9 16:05:05 2023 -0600
+
+    Initial commit
