@@ -1,0 +1,38 @@
+ 
+  .flexbox, button, input {
+    border-radius: 0.2em;
+  }
+ body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #7ddbbc;
+}
+
+.flexbox {
+    background-color: azure;
+    display: flex;
+     max-width: 700px;
+    flex: 1;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    gap: 10px; padding:5px 0  2px ;
+    
+}
+.flexbox > div {
+    display: flex;
+    
+    flex: 1;
+    flex-direction: column;
+}
+button {
+    background-color: thistle;
+    text-align: center; 
+    height: 2.5rem;
+    flex: 1;
+}
+input {
+    margin-top: 5px;
+    height: 2.5rem;
+}
