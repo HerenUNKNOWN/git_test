@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 body { display: flex;
         justify-content: center;
@@ -72,3 +73,37 @@ li {
          margin: 0.2em;     
       }
 }
+=======
+ input, button {
+    height:2rem;
+ }
+body, #main-nav , .div-nav {
+    display: flex; }
+body {
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+ #main-nav, button, input{
+    border-radius: 0.2em; 
+ }
+ #main-nav {  
+    flex-direction:row;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    flex: 1;
+    background-color: gray;
+    max-width: 550px; 
+    gap: 10px;
+}
+.div-nav { 
+    flex-wrap: wrap;
+    flex: 1;
+    flex-direction:column;
+} 
+button { 
+    flex: 1 3 70px;
+    text-align: center;
+     
+}
+>>>>>>> 3a4d7cc (it is not really important but an achievement!)
